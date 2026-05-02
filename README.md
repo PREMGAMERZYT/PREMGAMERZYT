@@ -1,4 +1,4 @@
-<img width="738" height="531" alt="image" src="https://github.com/user-attachments/assets/d49511d3-d642-4e82-b8df-21f5ba7e8607" /><h1 align="center">Hi 👋, I'm Prem</h1>
+<h1 align="center">Hi 👋, I'm Prem</h1>
 <h3 align="center">🎓 Diploma ECE Student | 🚀 Future B.Tech in ECE | 💻 Developer</h3>
 
 <p align="center">
